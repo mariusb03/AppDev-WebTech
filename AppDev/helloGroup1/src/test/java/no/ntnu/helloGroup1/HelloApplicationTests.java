@@ -1,4 +1,4 @@
-package no.ntnu.hello;
+package no.ntnu.helloGroup1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
